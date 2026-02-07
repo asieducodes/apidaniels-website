@@ -106,7 +106,7 @@ export default function Contact() {
                     href="mailto:apidanielsautoandtradellc@gmail.com"
                     className="text-brand-red hover:underline break-all"
                   >
-                    apidanielsautotradeusa@yahoo.com
+                    apidanielsautoandtradellc@gmail.com
                   </a>
                 ),
               },

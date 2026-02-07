@@ -3,7 +3,7 @@ import About from "../components/About";
 import Services from "../components/Services";
 import Brands from "../components/Brands";
 import Contact from "../components/Contact";
-import FloatingWhatsApp from "../components/FloatingWhtsApp";
+import FloatingWhatsApp from "../components/FloatingWhatsApp";
 
 export default function Home() {
   return (

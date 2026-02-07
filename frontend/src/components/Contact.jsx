@@ -103,7 +103,7 @@ export default function Contact() {
                 title: "Email",
                 content: (
                   <a
-                    href="mailto:apidanielsautotradeusa@yahoo.com"
+                    href="mailto:apidanielsautoandtradellc@gmail.com"
                     className="text-brand-red hover:underline break-all"
                   >
                     apidanielsautotradeusa@yahoo.com

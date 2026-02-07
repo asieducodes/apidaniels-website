@@ -98,8 +98,8 @@ export default function Contact() {
                 <div className="text-3xl">📧</div>
                 <div>
                   <p className="font-semibold">Email</p>
-                  <a href="mailto:apidanielsautotradeusa@yahoo.com" className="text-brand-red hover:underline">
-                    apidanielsautoandtradellc
+                  <a href="mailto:apidanielsautoandtradellc@gmail.com" className="text-brand-red hover:underline">
+                    apidanielsautoandtradellc@gmail.com
                   </a>
                 </div>
               </div>
@@ -113,6 +113,7 @@ export default function Contact() {
                     Opposite Redemption House<br />
                     Kumasi, Ghana
                   </p>
+                  <br/>
                   <p className="text-gray-600">
                     122 Water St<br />
                     01453<br />

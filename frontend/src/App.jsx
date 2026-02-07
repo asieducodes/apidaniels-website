@@ -31,7 +31,7 @@ export default App;
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Navbar from "./components/Navbar";
 import Home from "./pages/Home";
-import Cars from "./Pages/Cars";
+import Cars from "./pages/Cars";
 
 export default function App() {
   return (
